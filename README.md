@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @enivre1717
+- 👀 I’m interested in Angular, Python, hiking, camping and travelling.
+- 🌱 I’m currently learning Data analytics.
+- 💞️ I’m looking to collaborate on any projects. :)
+- 📫 How to reach me bumblebee031@gmail.com
